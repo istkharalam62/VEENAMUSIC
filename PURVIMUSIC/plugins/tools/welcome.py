@@ -1,4 +1,4 @@
-from DAXXMUSIC import app
+from PURVIMUSIC import app
 from pyrogram.errors import RPCError
 from pyrogram.types import ChatMemberUpdated, InlineKeyboardMarkup, InlineKeyboardButton
 from os import environ
@@ -16,7 +16,7 @@ from asyncio import sleep
 from pyrogram import filters, Client, enums
 from pyrogram.enums import ParseMode
 from logging import getLogger
-from DAXXMUSIC.utils.daxx_ban import admin_filter
+from PURVIMUSIC.utils.daxx_ban import admin_filter
 from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *
 from pyrogram.types import *
@@ -28,15 +28,15 @@ import os
 import re
 import asyncio
 import time
-from DAXXMUSIC.utils.database import add_served_chat
+from PURVIMUSIC.utils.database import add_served_chat
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from DAXXMUSIC.utils.database import get_assistant
+from PURVIMUSIC.utils.database import get_assistant
 import asyncio
-from DAXXMUSIC.misc import SUDOERS
-from DAXXMUSIC.mongo.afkdb import PROCESS
+from PURVIMUSIC.misc import SUDOERS
+from PURVIMUSIC.mongo.afkdb import PROCESS
 from pyrogram import Client, filters
 from pyrogram.errors import UserAlreadyParticipant
-from DAXXMUSIC import app
+from PURVIMUSIC import app
 import asyncio
 import random
 from pyrogram import Client, filters
@@ -47,7 +47,7 @@ from pyrogram.errors import (
     UserAlreadyParticipant,
     UserNotParticipant,
 )
-from DAXXMUSIC.utils.database import get_assistant, is_active_chat
+from PURVIMUSIC.utils.database import get_assistant, is_active_chat
 
 
 
@@ -202,6 +202,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 **➻ ɪᴅ »** `{user.id}`
 **➻ ᴜ_ɴᴀᴍᴇ »** @{user.username}
 **➻ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs »** {count}
+**➻ 𝗠𝗔𝗗𝗘 𝗕𝗬👻@ll_ISTKHAR_lll
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 **❅─────✧❅✦❅✧─────❅**

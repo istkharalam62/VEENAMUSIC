@@ -36,8 +36,6 @@ NEXI_VID = [
 "https://telegra.ph/file/80206a697cb69c80c873d.jpg",
 "https://telegra.ph/file/4ad1de37ae0a2a070eb79.jpg",
 "https://telegra.ph/file/6af7a74b3c4506e2215ae.jpg",
-
-    [
     
 
 

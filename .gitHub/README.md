@@ -17,7 +17,7 @@
 GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://telegra.ph/file/207afbc175113d14d1231.jpg">
+  <img src="https://telegra.ph/file/3d572f016c6677450549c.jpg">
 </p>
 d
 <p align="center">
@@ -28,7 +28,7 @@ d
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMPURVI/PURVI_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/istkharalam62/VEENAMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="TEAMPURVI" /></p>

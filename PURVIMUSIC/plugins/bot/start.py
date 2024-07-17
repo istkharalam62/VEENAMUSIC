@@ -37,12 +37,8 @@ NEXI_VID = [
 "https://telegra.ph/file/4ad1de37ae0a2a070eb79.jpg",
 "https://telegra.ph/file/6af7a74b3c4506e2215ae.jpg",
 
-STICKERS = [
-    "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
-    "CAACAgUAAx0CfL_LsAACCSRl_oru7uW8WAt3-L1pYQWe_1mxawACQw8AAj78MVeb3v2OFvEnNB4E",
-    "CAACAgEAAx0Cd6nKUAACATVl_rtAi9KCVQf8vcUC4FMDUfLP8wACHQEAAlEpDTnhphyRDaTrPR4E",
-    "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
-
+    [
+    
 
 
 @app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)

@@ -20,7 +20,7 @@ from pyrogram.enums import ParseMode
 from pyrogram import *
 from pyrogram.types import *
 from logging import getLogger
-from PURVIMUSIC.utils.PURVIMUSIC_ban import admin_filter
+from PURVIMUSIC.utils import admin_filter
 import os
 from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *

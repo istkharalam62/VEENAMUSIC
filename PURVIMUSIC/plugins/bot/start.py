@@ -29,15 +29,19 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",
-"https://graph.org/file/ba7699c28dab379b518ca.mp4",
-"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-"https://graph.org/file/82fd67aa56eb1b299e08d.mp4",
-"https://graph.org/file/318eac81e3d4667edcb77.mp4",
-"https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
-"https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+"https://telegra.ph/file/47114db1ce7d5a4138ef0.jpg",
+"https://telegra.ph/file/05505371b5c0a57fdf879.jpg",
+"https://telegra.ph/file/fe0b835bad038cc94e642.jpg",
+"https://telegra.ph/file/a1d66c22f5aa1319b58ff.jpg",
+"https://telegra.ph/file/80206a697cb69c80c873d.jpg",
+"https://telegra.ph/file/4ad1de37ae0a2a070eb79.jpg",
+"https://telegra.ph/file/6af7a74b3c4506e2215ae.jpg",
 
-]
+STICKERS = [
+    "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
+    "CAACAgUAAx0CfL_LsAACCSRl_oru7uW8WAt3-L1pYQWe_1mxawACQw8AAj78MVeb3v2OFvEnNB4E",
+    "CAACAgEAAx0Cd6nKUAACATVl_rtAi9KCVQf8vcUC4FMDUfLP8wACHQEAAlEpDTnhphyRDaTrPR4E",
+    "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
 
 
 

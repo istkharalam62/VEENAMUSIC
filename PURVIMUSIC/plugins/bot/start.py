@@ -1,13 +1,17 @@
 import time
+import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-from youtubesearchpython.future import VideosSearch
+from youtubesearchpython.__future__ import VideosSearch
 
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 import config
 from PURVIMUSIC import app
 from PURVIMUSIC.misc import _boot_
 from PURVIMUSIC.plugins.sudo.sudoers import sudoers_list
+from PURVIMUSIC.utils.database import get_served_chats, get_served_users, get_sudoers
+from PURVIMUSIC.utils import bot_sys_stats
 from PURVIMUSIC.utils.database import (
     add_served_chat,
     add_served_user,

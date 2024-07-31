@@ -14,7 +14,7 @@ from PURVIMUSIC.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="|| ˹𖤍 𝗔𝗟𝗣𝗛𝗔 𖤍˼ ||",
+            text="|| ˹𖤍 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 𖤍˼ ||",
             url=f"https://t.me/PURVI_UPDATES",
         ),
     ],
